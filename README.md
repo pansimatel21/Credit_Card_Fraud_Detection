@@ -6,5 +6,6 @@ The dataset used for this research is collected from Kaggle at https://www.kaggl
 
 [Andrea Dal Pozzolo, Olivier Caelen, Reid A. Johnson and Gianluca Bontempi. Calibrating Probability with Undersampling for Unbalanced Classification. In Symposium on Computational Intelligence and Data Mining (CIDM), IEEE, 2015]
 
-Experimental Design
-Algorithm Selection: This research is basically based on whether the performance of a Neural Network would significantly differ if one part of the algorithm’s configuration is changed. Firstly, a multi-layer perceptron with 1-hidden layer was trained followed by a multi-layer perceptron with 2 hidden layers. Most of the parameters were tuned using Gridsearch algorithm followed by Trial and Error and, the rest were used as default provided by the Keras library.
+# Experimental Design
+# # Algorithm Selection: 
+This research is basically based on whether the performance of a Neural Network would significantly differ if one part of the algorithm’s configuration is changed. Firstly, a multi-layer perceptron with 1-hidden layer was trained followed by a multi-layer perceptron with 2 hidden layers. Most of the parameters were tuned using Gridsearch algorithm followed by Trial and Error and, the rest were used as default provided by the Keras library.
